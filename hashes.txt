@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bengal Nights
+
+This log tracks the cryptographic history and versioning for the song **Bengal Nights** (bengal-nights).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T15:31:31.366745 | `v1` | `8f3a799853c580b5fedc8b33408bfee74689c049c9373a829570528f796fe24f` | `c232b23cf1a26f05ac0f7a5a604ae2ef018b81ce6adda1b6b236d303863e8768` | `2026-05-19_bengal-nights-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
