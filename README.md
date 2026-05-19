@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bengal-nights/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Bengal Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bengal-nights/) |
+| **Get License** | [Secure Licensing Rights for Bengal Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bengal-nights/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Raat de hanere vich takda haan tenu all night,
+> Akhan de nashe ch main bolda haan so sweet,
+> Zulfaan de jaal vich fasda haan main holding tight,
+> Tenu seene naal launda haan feel the heat.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
